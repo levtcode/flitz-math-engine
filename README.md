@@ -1,1 +1,1 @@
-# math-engine
+# Flitz Math Engine
